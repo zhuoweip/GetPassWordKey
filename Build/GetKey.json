@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "TestWebgl",
+"productName": "WebGLInput",
 "dataUrl": "GetKey.data.unityweb",
 "wasmCodeUrl": "GetKey.wasm.code.unityweb",
 "wasmFrameworkUrl": "GetKey.wasm.framework.unityweb",
